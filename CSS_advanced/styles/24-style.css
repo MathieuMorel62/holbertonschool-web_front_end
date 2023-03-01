@@ -67,7 +67,7 @@ body {
     line-height: var(--line-height-base);
 }
 a {
-    color: #161616;
+    color: var(--text-color);
     text-decoration: none;
 }
 a:link {
