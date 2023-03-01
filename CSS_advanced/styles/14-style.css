@@ -59,7 +59,7 @@ a:active {
     background-color: var(--color-light-grey);
 }
 .visually-hidden {
-    color: none;
+    display: none;
 }
 .card-category {
     color: var(--color-primary);

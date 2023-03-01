@@ -8,7 +8,7 @@ a {
     color: #161616
 }
 .visually-hidden {
-    color: none;
+    display: none;
 }
 .card-category {
     color: #D73953
