@@ -101,6 +101,19 @@ a:hover {
 a:active {
     background-color: var(--color-light-grey);
 }
+.button {
+    display: var(--button-display);
+    padding: var(--button-padding);
+    border: var(--button-border);
+    font-size: var(--button-font-size);
+    color: var(--button-color);
+    text-decoration: var(--button-text-decoration);
+}
+.button:hover {
+    color: var(--button-hover-color);
+    text-decoration: var(--button-hover-text-decoration);
+    background-color: var(--button-hover-background);
+}
 .visually-hidden {
     display: none;
 }
@@ -220,19 +233,6 @@ ul.row {
     color: var(--color-white);
     background-color: var(--color-primary);
     text-decoration: none;
-}
-a:active, .button {
-    display: var(--button-display);
-    padding: var(--button-padding);
-    border: var(--button-border);
-    font-size: var(--button-font-size);
-    color: var(--button-color);
-    text-decoration: var(--button-text-decoration);
-}
-a:active, .button:hover {
-    color: var(--button-hover-color);
-    text-decoration: var(--button-hover-text-decoration);
-    background-color: var(--button-hover-background);
 }
 .card-testimonial {
     text-align: center;
