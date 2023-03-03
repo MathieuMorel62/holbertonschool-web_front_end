@@ -171,13 +171,13 @@ Copy the contents of `3-index.html` into `article.html`
 Copy the content of `3-index.html` into `5-index.html`
 - inside your `<main>` section
   - remove the text in `main`, create these sections:  
-    1  create first section and put the text `Hero section` inside  
-    2  create second section and put the text `Services section` inside  
-    3  create third section and put the text `Works section` inside  
-    4  create fourth section and put the text `About section` inside  
-    5  create fifth section and put the text `Latest news section` inside  
-    6  create sixth section and put the text `Testimonials section` inside  
-    7  create seventh section and put the text `Contact section` inside  
+    1. create first section and put the text `Hero section` inside  
+    2. create second section and put the text `Services section` inside  
+    3. create third section and put the text `Works section` inside  
+    4. create fourth section and put the text `About section` inside  
+    5. create fifth section and put the text `Latest news section` inside  
+    6. create sixth section and put the text `Testimonials section` inside  
+    7. create seventh section and put the text `Contact section` inside  
 
 ---------------------
 
