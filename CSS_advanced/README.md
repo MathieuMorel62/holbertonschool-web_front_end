@@ -462,7 +462,7 @@ You can save it in a `index.html` file and replace the `<link rel='stylesheet' h
 
 ## End goal of the project
 
-<img src="https://user-images.githubusercontent.com/113856302/222900502-9727aad2-fbe4-45d7-b7ca-62554dc0be8e.png" width="100%">
+<img src="https://user-images.githubusercontent.com/113856302/222906677-8c7a974e-e4a1-4557-9291-45f297c54218.gif" width="100%">
 
 -----------------------
 
@@ -1012,12 +1012,6 @@ Inside `.card-work .card-inner`
   - Use the shorthand property `transition` and have it use the value of `var(–transition-duration) var(transition-cubic-bezier)`
 
 -------------------------
-
-## Final Result
-
-<img src="https://user-images.githubusercontent.com/113856302/222906677-8c7a974e-e4a1-4557-9291-45f297c54218.gif" width="100%">
-
---------------------------
 
 ## Author
 
