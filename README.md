@@ -309,3 +309,253 @@ To structure an HTML page correctly, you should follow a few best practices:
 </details>
 
 -------------------------------
+
+### [Advanced CSS](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/CSS_advanced)
+
+#### `General`
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+
+<details>
+<summary>Selectors, properties, and values</summary>
+<br>
+
+Selectors, properties, and values are the three basic components of `CSS`. `Selectors` are used to target specific `HTML` elements, `properties` define the appearance and behavior of those elements, and `values` set specific values for those properties.
+  
+exemple:
+
+```css
+/* Selector */
+p {
+  /* Property and value */
+  color: red;
+}
+```
+</details>
+<details>
+<summary>The difference between block and inline styling</summary>
+<br>
+
+Block and inline styling refer to the way that elements are displayed on a page. `Block elements` take up the full width of their container and start on a new line, while `inline elements` only take up as much width as their content and stay on the same line.
+  
+Example:
+
+```css
+/* Block element */
+div {
+  display: block;
+}
+
+/* Inline element */
+span {
+  display: inline;
+}
+```
+</details>
+<details>
+<summary>How to ensure consistency across all browers (CSS reset)</summary>
+<br>
+
+A `CSS reset` is used to ensure consistency in the way that different browsers render HTML elements. A CSS reset typically removes all default `margins`, `padding`, and other styles so that elements can be styled consistently across all browsers.
+	  
+Example:
+	
+```css
+/* CSS reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+```
+</details>
+<details>
+<summary>How to setup CSS variables</summary>
+<br>
+
+`CSS variables`, also known as custom properties, allow you to define variables that can be reused throughout your CSS. You can define a CSS variable using the "`--`" prefix.
+	  
+Example:
+  
+```css
+/* CSS variable */
+:root {
+  --primary-color: #007bff;
+}
+
+/* Use CSS variable */
+button {
+  background-color: var(--primary-color);
+}
+```
+</details>
+<details>
+<summary>The differences between inline, embeded and external CSS</summary>
+<br>
+
+Inline, embedded, and external CSS are three ways to add styles to an HTML document. `Inline styles` are added directly to an HTML element using the "style" attribute, `embedded styles` are added to the head of an HTML document using the "style" tag, and `external styles` are added in a separate CSS file and linked to the HTML document using the "link" tag.
+	  
+Example:
+	
+```css
+/* Inline style */
+<p style="color: red;">This text is red.</p>
+
+/* Embedded style */
+<style>
+  p {
+    color: red;
+  }
+</style>
+
+/* External style */
+<link rel="stylesheet" href="styles.css">
+```
+</details>
+<details>
+<summary>How grid systems work (with floats)</summary>
+<br>
+
+Grid systems are used to create flexible and responsive web page layouts. Grids are made up of `columns` and `rows` that allow you to divide your page into sections. Grids often work in conjunction with CSS `positioning` and `floating` properties.
+	  
+Example:
+	
+```css
+/* CSS for a simple grid with two columns */
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.box {
+  background-color: #ccc;
+  padding: 20px;
+}
+```
+</details>
+<details>
+<summary>The difference between icons webfonts and SVG icons</summary>
+<br>
+
+`Icons webfonts` and `SVG icons` are two different ways to display icons on a web page. `Icon webfonts` use font files to display icons as characters, while `SVG icons` use vector graphics to display icons as scalable images.
+	  
+Example:
+	
+```css
+/* Icon webfont */
+<i class="icon-star"></i>
+
+/* SVG icon */
+<svg class="icon-star" viewBox="0 0 24 24">
+  <path d="M12 3.5l2.47 6.68 6.53.56-5 4.28 1.64 6.43-5.14-3.57-5.14 3.57 1.64-6.43-5-4.28 6.53-.56z"/>
+</svg>
+```
+</details>
+<details>
+<summary>The difference between pseudo-classes and pseudo-elements</summary>
+<br>
+
+Pseudo-classes and pseudo-elements are used in CSS to style elements based on their state or position in the HTML document. Pseudo-classes are used to target an element in a particular state, such as "`:hover`" for when the user hovers over an element, or "`:first-child`" for the first child of a parent element. Pseudo-elements are used to target a specific part of an element, such as "`::before`" to insert content before an element or "`::after`" to insert content after an element.
+  
+Exemple:
+	
+```css
+/* Pseudo-class */
+a:hover {
+  color: red;
+}
+
+/* Pseudo-element */
+h1::before {
+  content: "Chapter ";
+  font-weight: bold;
+}
+```
+</details>
+<details>
+<summary>How to make background gradients</summary>
+<br>
+
+Background gradients are used to create a gradient effect in the background of an HTML element. Gradients can be created using the "`linear-gradient`" or "`radial-gradient`" functions, and can include multiple colors.
+	  
+Example:
+	
+```css
+/* Linear gradient */
+body {
+  background: linear-gradient(to bottom, #00bfff, #1e90ff);
+}
+
+/* Radial gradient */
+div {
+  background: radial-gradient(circle, #ff4500, #ff8c00, #ffd700);
+}
+```
+</details>
+<details>
+<summary>How to animate elements in CSS</summary>
+<br>
+
+CSS animations are used to add animation effects to HTML elements. Animations are defined using the "`@keyframes`" rule, which defines the keyframe positions and styles for the animation. Animations can also be customized with timing functions, delay, and iteration counts.
+	  
+Example:
+	
+```css
+/* Define keyframes */
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Apply animation */
+div {
+  animation: rotate 2s linear infinite;
+}
+```
+</details>
+<details>
+<summary>How to transform (2d, 3d) elements</summary>
+<br>
+
+CSS transforms are used to manipulate the position, size, and shape of HTML elements. Transforms can be used to `rotate`, `scale`, `skew`, and `translate` elements in `2D` and `3D` space.
+  
+Example:
+	
+```css
+/* 2D transform */
+div {
+  transform: rotate(45deg) scale(1.5) skew(10deg) translate(50px, 50px);
+}
+
+/* 3D transform */
+div {
+  transform: perspective(500px) rotateY(45deg);
+}
+```
+</details>
+<details>
+<summary>What vendor prefixes are</summary>
+<br>
+
+Vendor prefixes are used to add experimental or proprietary CSS features to a page that may not be supported by all browsers. Vendor prefixes are added to the beginning of a CSS property, such as "`-webkit-`" for Safari and Chrome, "`-moz-`" for Firefox, and "`-ms-`" for Internet Explorer.
+	  
+Exemple:
+	
+```css
+/* Vendor prefix for box-shadow */
+box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+-webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* Safari, Chrome */
+-moz-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* Firefox */
+-ms-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* Internet Explorer */
+```
+</details>
+
+----------------------------
+
+## Author
+
+- Mathieu Morel
