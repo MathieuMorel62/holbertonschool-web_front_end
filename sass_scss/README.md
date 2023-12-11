@@ -1,5 +1,7 @@
 # SASS & SCSS Project
 
+<img width="1173" alt="sass" src="https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/9f9d32bf-7fd6-4207-a78b-9775bc329159">
+
 ## SASS/SCSS Project Description and Features
 
 This project offers an in-depth exploration of Sass & Scss, two powerful CSS preprocessors, revolutionizing the creation of advanced and dynamic web styles. At the heart of this project is a demonstration of how Sass & Scss transform web development efficiency by significantly increasing productivity, improving code organization, and greatly simplifying CSS maintenance.
@@ -16,7 +18,6 @@ By adopting Sass & Scss, developers can break free from the traditional limits o
 - [Sass references](https://sass-lang.com/documentation/)
 
 ## Requirements
-### Development Environment
 
 - Languages: Sass/Scss.
 - Sass Version: 3.7.4 or later.
