@@ -7,7 +7,8 @@
 
 body {
   @include set-margins(10px, 10px);
+}
 
-  div {
-    @include set-margins(15px, 15px);}
+div {
+  @include set-margins(15px, 15px);
 }
