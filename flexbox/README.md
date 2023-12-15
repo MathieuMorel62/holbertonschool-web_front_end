@@ -1,5 +1,8 @@
 # Flexbox Layout Project
 
+<img width="2056" alt="Capture d’écran 2023-12-15 à 18 50 47" src="https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/30e07631-dbb0-4500-a2d0-14b7a288ef3d">
+
+
 ## Description
 
 This project is a comprehensive exploration of CSS Flexbox layout. It guides web developers through a series of tasks to master responsive web design techniques using Flexbox. From basic flex container setups to complex layouts, the project covers reversing item orders, managing multi-line flex containers, aligning items, and structuring various web page sections. It's an in-depth study in crafting efficient, flexible web designs adaptable to different screen sizes. You can see my web site [here](https://mathieumorel62.github.io/holbertonschool-web_front_end/flexbox/10-index.html#)
@@ -46,7 +49,15 @@ This project is a comprehensive exploration of CSS Flexbox layout. It guides web
 16. **Timemachine Boxes!:** Create a layout of boxes using Flexbox (advanced task). [HTML File](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/flexbox/101-index.html) - [CSS File](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/flexbox/101-style.css)
 
 ## Screenshots
-*Include screenshots of the final project here*
+### Home Page
+
+![screencapture-mathieumorel62-github-io-holbertonschool-web-front-end-flexbox-10-index-html-2023-12-15-18_25_08](https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/fb60fa7b-64a9-4e73-b525-c161bd0bce5a)
+
+### Latest News Page
+
+![screencapture-mathieumorel62-github-io-holbertonschool-web-front-end-flexbox-100-article-html-2023-12-15-18_49_22](https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/f73f8d5d-2fbc-49f2-9df8-6e654ad31f48)
+
+
 
 ## Author
 
