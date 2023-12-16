@@ -871,6 +871,9 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 The Form project is a comprehensive guide to working with HTML forms. Forms are an essential part of web development and user interaction. This project covers various aspects of creating, styling, and enhancing HTML forms, ensuring that they are both usable and accessible. You will learn how to create different types of forms, validate user inputs, style form elements, and build interactive forms for user interaction.
 
+#### `General`
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+
 <details>
 <summary>How to create an HTML5 form</summary>
 <br>
