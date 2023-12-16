@@ -648,6 +648,118 @@ This project aims to equip aspiring web developers with a thorough understanding
 
 ----------------------
 
+# [Sass & Scss](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/sass_scss)
+
+![SASS & SCSS](https://www.boardinfinity.com/blog/content/images/2023/03/Copy-of-XML-vsJSON.png)
+
+## Descrition
+
+This project is designed to unravel the intricacies of Sass and Scss, powerful CSS preprocessor scripting languages that extend the default capabilities of CSS. With Sass & Scss, developers can write more efficient, manageable, and reusable stylesheet code. The learning objectives focus on understanding the syntax, features, and best practices of Sass & Scss, preparing developers to streamline their styling workflow and embrace the dynamic features these preprocessors offer.
+
+<details>
+<summary>What Sass means</summary>
+<br>
+
+- `Sass (Syntactically Awesome Stylesheets)`: It's a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS). SassScript is the scripting language itself.
+
+</details>
+
+<details>
+<summary>How to write Sass & Scss file</summary>
+<br>
+
+- `Sass & Scss Files`: Sass files end with `.sass` and use strict indentation syntax that is whitespace-dependent. Scss files end with `.scss` and use the same syntax as CSS with braces and semicolons.
+
+</details>
+
+<details>
+<summary>What is the difference between Sass and Scss</summary>
+<br>
+
+- `Difference`: The key difference is the syntax. Sass uses an indentation-based syntax, while Scss uses a more traditional CSS-like syntax with braces and semicolons. Scss is considered more user-friendly and easier to integrate with CSS files.
+
+</details>
+
+<details>
+<summary>What is the Sass preprocessing</summary>
+<br>
+
+- `Sass Preprocessing`: It's a step in the build process where the Sass/Scss files are compiled into standard CSS. This process allows you to use variables, nested rules, mixins, and more in your stylesheets.
+
+</details>
+
+<details>
+<summary>How to declare a variable</summary>
+<br>
+
+- `Variables`: In Sass/Scss, variables are declared using the `$` symbol followed by the variable name and value. For example, `$primary-color: #333;`.
+
+</details>
+
+<details>
+<summary>How to use nested definition</summary>
+<br>
+
+- `Nested Definitions`: Sass/Scss allows you to nest CSS selectors in a way that follows the same visual hierarchy of your HTML. For example:
+
+```scss
+nav {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  li { display: inline-block; }
+  a { text-decoration: none; }
+}
+```
+
+</details>
+
+<details>
+<summary>How to import a Sass file</summary>
+<br>
+
+- `Importing`: Use the `@import` directive to include the content of one Sass/Scss file into another. For example, `@import 'variables';` will import `_variables.scss`.
+
+</details>
+
+<details>
+<summary>How to use mixins</summary>
+<br>
+
+- `Mixins`: They allow you to define styles that can be reused throughout your stylesheet. They're defined with the `@mixin` directive and included with the `@include` directive. For example:
+
+```scss
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+          border-radius: $radius;
+}
+
+.box { @include border-radius(10px); }
+```
+
+</details>
+
+<details>
+<summary>How to declare extend/inheritance styles</summary>
+<br>
+
+- `Extend/Inheritance`: The `@extend` directive lets you share a set of CSS properties from one selector to another. For example, `.class1 { @extend .class2; }` will apply `.class2`'s styles to `.class1`.
+
+</details>
+
+<details>
+<summary>How to manipulate operators</summary>
+<br>
+
+- `Operators`: Sass supports standard math operators like `+`, `-`, `*`, `/`, and `%` for operations on numbers, colors, and variables. For example, `$width: 100% / 3;`.
+
+</details>
+
+------------------
+
 ## Author
 
 - Mathieu Morel
