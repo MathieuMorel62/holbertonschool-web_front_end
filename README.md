@@ -564,6 +564,9 @@ box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
 
 This project aims to equip aspiring web developers with a thorough understanding of web developer tools. By delving into this guide, developers will gain the ability to audit, edit, and optimize web pages effectively. The focus is on mastering the Developer Tools available in popular browsers such as Chrome, Firefox, Safari, and Edge. The guide covers practical skills like editing HTML and CSS on the fly, running custom JavaScript snippets, assessing page performance, and more. Through hands-on experience and following expert tips from resources like Lighthouse, developers will learn to troubleshoot common issues like detecting 404 errors and managing file and server configurations. This project is designed to be comprehensive yet understandable without the need to consult external search engines.
 
+#### `General`
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+
 <details>
 <summary>What Developer Tools in your browser are</summary>
 <br>
@@ -655,6 +658,9 @@ This project aims to equip aspiring web developers with a thorough understanding
 ## Descrition
 
 This project is designed to unravel the intricacies of Sass and Scss, powerful CSS preprocessor scripting languages that extend the default capabilities of CSS. With Sass & Scss, developers can write more efficient, manageable, and reusable stylesheet code. The learning objectives focus on understanding the syntax, features, and best practices of Sass & Scss, preparing developers to streamline their styling workflow and embrace the dynamic features these preprocessors offer.
+
+#### `General`
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 <details>
 <summary>What Sass means</summary>
@@ -767,6 +773,9 @@ nav {
 ## Description
 
 The Flexbox project is a comprehensive exploration of the Flexbox layout model in web development. Flexbox, short for Flexible Box Layout, is a CSS layout model that provides an efficient and predictable way to arrange and distribute space among elements in a container, even when their size is unknown or dynamic. This project aims to provide a detailed understanding of Flexbox, covering its fundamental concepts, practical implementation, and real-world use cases.
+
+#### `General`
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 <details>
 <summary>What is Flexbox?</summary>
