@@ -1,4 +1,6 @@
-# Form
+# Form Project
+
+<img width="1087" alt="Capture d’écran 2023-12-16 à 16 25 16" src="https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/6f164b2f-4d2e-495c-bedd-9f69770241c6">
 
 ## Description
 
@@ -45,21 +47,42 @@ This project consists of a series of web forms designed with HTML and CSS, focus
 - [:valid - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/:valid)
 - [:optional - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/:optional)
 
+
 ## Project Structure
 
 0. **Basic Comment Structure:** Creation of a basic structure for comments in an article, including a header with a title and a paragraph. [HTML File](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/form/01-article.html) - [CSS File](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/form/01-styles.css)
 
+
 1. **More Comment Basic Structure:** Improvement of the comment structure with the addition of fields for personal information and comments. [HTML File](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/form/02-article.html) - [CSS File](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/form/02-styles.css)
+
 
 2. **Create Labels and Input Container:** Development of labels and input containers for form fields, with particular attention to names, emails, and other information. [HTML File](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/form/03-article.html) - [CSS File](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/form/03-styles.css)
 
+
 3. **Create the Inputs:** Creation of input fields with specific attributes such as type, name, ID, and placeholders. [HTML File](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/form/04-article.html) - [CSS File](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/form/04-styles.css)
+
+<img width="590" alt="Capture d’écran 2023-12-16 à 16 18 14" src="https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/949d72cd-cb5d-4211-8daf-38f5aa4e4185">
+
+-------------------
 
 4. **Add Help Messages:** Addition of help messages to guide the user in filling out the forms, providing information on the expectations of each field. [HTML File](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/form/05-article.html) - [CSS File](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/form/05-styles.css)
 
+<img width="524" alt="Capture d’écran 2023-12-16 à 16 19 57" src="https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/b8c09521-eab5-4837-a171-1efba08fa11f">
+
+-----------------------
+
 5. **Add Pure HTML/CSS Error Handling:** Implementation of error handling in HTML and CSS, including form validations and error messages. [HTML File](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/form/06-article.html) - [CSS File](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/form/06-styles.css)
 
+<img width="750" alt="Capture d’écran 2023-12-16 à 16 21 00" src="https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/fd5fbc4e-10d6-4d7e-81ee-ea4f296540ee">
+
+---------------------
+
 6. **Add the Search Form:** Integration of a search form into the navigation, with elements such as a search bar and a button. [HTML File](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/form/07-article.html) - [CSS File](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/form/07-styles.css)
+
+<img width="490" alt="Capture d’écran 2023-12-16 à 16 22 14" src="https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/a85ef35b-cac0-4621-9d5e-b57138d3c3f8">
+
+
+----------------
 
 ## Installation and Usage
 
@@ -83,10 +106,13 @@ cd holbertonschool-web_front_end/form
 
 - **Exploring the Project:** Navigate through the different features and forms to understand the structure and behavior of the project.
 
+----------------------
 
 ## Project Final Screenshots
 
-![img]()
+![screencapture-localhost-5500-form-07-article-html-2023-12-16-16_00_29](https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/c4d59368-50ee-4aa7-a291-ebee4db157ea)
+
+--------------------
 
 ## Author
 
