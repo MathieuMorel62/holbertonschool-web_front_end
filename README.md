@@ -762,7 +762,7 @@ nav {
 
 # [Flexbox](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/flexbox)
 
-![Flexbox](https://fr-images.tuto.net/tuto/thumb/648/288/124631.webp)
+![Flexbox](https://miro.medium.com/v2/resize:fit:2000/1*--hxH0rxCaJ3CbY5LJBeXg.png)
 
 ## Description
 
