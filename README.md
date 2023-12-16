@@ -760,6 +760,100 @@ nav {
 
 ------------------
 
+# [Flexbox](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/flexbox)
+
+![Flexbox](https://fr-images.tuto.net/tuto/thumb/648/288/124631.webp)
+
+## Description
+
+The Flexbox project is a comprehensive exploration of the Flexbox layout model in web development. Flexbox, short for Flexible Box Layout, is a CSS layout model that provides an efficient and predictable way to arrange and distribute space among elements in a container, even when their size is unknown or dynamic. This project aims to provide a detailed understanding of Flexbox, covering its fundamental concepts, practical implementation, and real-world use cases.
+
+<details>
+<summary>What is Flexbox?</summary>
+<br>
+
+- **Flexbox** is a CSS layout model that allows you to design complex layouts with ease. It provides a flexible way to distribute space and align elements within a container. Flexbox is particularly useful for designing responsive and dynamic layouts.
+
+</details>
+
+<details>
+<summary>How to convert float positioning to a flex display</summary>
+<br>
+
+- To convert float-based positioning to a Flexbox display, follow these steps:
+  1. Create a container element that will hold the items you want to arrange using Flexbox.
+  2. Apply `display: flex;` to the container element. This establishes it as a Flexbox container.
+  3. Replace the float-based styling on the child elements with Flexbox properties such as `flex-grow`, `flex-shrink`, and `flex-basis` to control their sizing and positioning within the container.
+
+</details>
+
+<details>
+<summary>How to horizontally and vertically align elements using Flexbox</summary>
+<br>
+
+- To horizontally align elements using Flexbox, set the `justify-content` property on the Flexbox container to values like `center`, `flex-start`, or `flex-end`.
+
+- To vertically align elements using Flexbox, set the `align-items` property on the Flexbox container to values like `center`, `flex-start`, or `flex-end`.
+
+- For more precise control over alignment, you can use the `align-self` property on individual Flexbox items.
+
+</details>
+
+<details>
+<summary>The difference between the main and cross axes</summary>
+<br>
+
+- In Flexbox, there are two axes: the **main axis** and the **cross axis**.
+  - The **main axis** is the primary axis along which Flexbox items are laid out. It is determined by the `flex-direction` property of the Flexbox container and can be either horizontal or vertical.
+  - The **cross axis** is perpendicular to the main axis. It is used for alignment and distribution of items that do not fit the main axis.
+
+</details>
+
+<details>
+<summary>Properties that work on flex elements vs flex container</summary>
+<br>
+
+- Properties that apply to **Flexbox elements** (the child items within a Flexbox container) include:
+  - `flex-grow`: Determines how much an item can grow relative to other items.
+  - `flex-shrink`: Controls how much an item can shrink relative to other items.
+  - `flex-basis`: Specifies the initial size of an item before it starts to grow or shrink.
+  - `align-self`: Overrides the `align-items` property for an individual item.
+
+- Properties that apply to the **Flexbox container** include:
+  - `display: flex;`: Establishes an element as a Flexbox container.
+  - `flex-direction`: Specifies the main axis direction.
+  - `justify-content`: Aligns items along the main axis.
+  - `align-items`: Aligns items along the cross axis.
+  - `flex-wrap`: Controls whether items wrap onto multiple lines when they don't fit.
+  - `align-content`: Aligns multiple lines of items along the cross axis.
+
+</details>
+
+<details>
+<summary>Shorthands for flex</summary>
+<br>
+
+- Flexbox properties can be combined into shorthand properties for convenience:
+  - `flex`: Combines `flex-grow`, `flex-shrink`, and `flex-basis` in one property, in that order.
+  - Example: `flex: 1 0 auto;` is equivalent to `flex-grow: 1; flex-shrink: 0; flex-basis: auto;`
+
+</details>
+
+<details>
+<summary>How to create a new page with flex in mind</summary>
+<br>
+
+- When creating a new web page with Flexbox in mind, follow these steps:
+  1. Identify the major layout components that need to be flexible, such as headers, navigation bars, content sections, and footers.
+  2. Create a container element for each of these major components and apply `display: flex;` to make them Flexbox containers.
+  3. Use Flexbox properties to arrange and align the child elements within each container to achieve the desired layout.
+  4. Test the layout across different screen sizes and devices to ensure responsiveness and adaptability.
+  5. Adjust Flexbox properties as needed to fine-tune the layout and alignment based on user feedback and design requirements.
+
+</details>
+
+---------------------
+
 ## Author
 
 - Mathieu Morel
