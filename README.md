@@ -556,6 +556,101 @@ box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
 
 ----------------------------
 
+## Projects
+
+### [Developer Tools](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/developer_tools)
+
+#### `General`
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+
+## Description
+
+This project aims to equip aspiring web developers with a thorough understanding of web developer tools. By delving into this guide, developers will gain the ability to audit, edit, and optimize web pages effectively. The focus is on mastering the Developer Tools available in popular browsers such as Chrome, Firefox, Safari, and Edge. The guide covers practical skills like editing HTML and CSS on the fly, running custom JavaScript snippets, assessing page performance, and more. Through hands-on experience and following expert tips from resources like Lighthouse, developers will learn to troubleshoot common issues like detecting 404 errors and managing file and server configurations. This project is designed to be comprehensive yet understandable without the need to consult external search engines.
+
+<details>
+<summary>What Developer Tools in your browser are</summary>
+<br>
+
+- `Developer Tools`: Integrated tools in a web browser that enable developers to inspect, debug, and profile the content of a webpage. They offer functionalities like editing HTML/CSS, viewing console logs, analyzing network activity, and much more.
+
+</details>
+
+<details>
+<summary>How to open the Developer Tools on Chrome, Firefox, Safari, and Edge</summary>
+<br>
+
+- `Chrome & Edge`: Press `Ctrl + Shift + I` on Windows/Linux or `Cmd + Option + I` on macOS.
+- `Firefox`: Press `Ctrl + Shift + I` or `Cmd + Option + I`, or you can press `F12`.
+- `Safari`: First enable the Developer menu from Safari's preferences under the Advanced tab by checking `Show Develop menu in menu bar`, then press `Cmd + Option + I`.
+
+</details>
+
+<details>
+<summary>How to use the elements tab to edit HTML and CSS</summary>
+<br>
+
+- `Elements Tab`: This tab in Developer Tools allows you to view and change the DOM and CSS. You can click on any element to view its HTML, and you can directly click into the styles pane to add, delete, or modify CSS properties and see those changes in real-time.
+
+</details>
+
+<details>
+<summary>How to audit a page according to the tips suggested by Lighthouse</summary>
+<br>
+
+- `Lighthouse`: An open-source, automated tool for improving the quality of web pages. It can be run against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, SEO, and more. To run Lighthouse in Chrome, go to the `Audits` tab and click `Generate report`.
+
+</details>
+
+<details>
+<summary>How to create and run snippets on a page</summary>
+<br>
+
+- `Snippets`: They are scripts that you can write within the Developer Tools that can be saved and executed on any page. Navigate to the `Sources` tab, then to the `Snippets` sidebar, write your code, right-click and select `Run` to execute your snippet.
+
+</details>
+
+<details>
+<summary>How to get information about files and server configurations</summary>
+<br>
+
+- `Network Tab`: This tab provides detailed information about each file loaded by a web page, their HTTP headers which include caching, content types, server information, and other details.
+
+</details>
+
+<details>
+<summary>How to block requests</summary>
+<br>
+
+- `Request Blocking`: To block requests, go to the `Network` tab, right-click on any request, and choose `Block request URL` or `Block request domain`.
+
+</details>
+
+<details>
+<summary>How to know how much JavaScript or CSS is used on a page</summary>
+<br>
+
+- `Coverage Tab`: Open the Developer Tools, go to the `More tools` section, and select `Coverage`. Here, you can see how much code is used vs. unused on your page.
+
+</details>
+
+<details>
+<summary>How to detect 404 issues</summary>
+<br>
+
+- `Console & Network Tabs`: 404 errors will show up in the `Console` tab as red text. They can also be seen in the `Network` tab where files that fail to load will display a 404 status.
+
+</details>
+
+<details>
+<summary>How to move elements on a webpage</summary>
+<br>
+
+- `DOM Manipulation`: In the `Elements` tab, you can drag and drop HTML elements to rearrange them on the page.
+
+</details>
+
+----------------------
+
 ## Author
 
 - Mathieu Morel
