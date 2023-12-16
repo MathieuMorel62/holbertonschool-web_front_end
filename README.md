@@ -854,6 +854,145 @@ The Flexbox project is a comprehensive exploration of the Flexbox layout model i
 
 ---------------------
 
+# [Form](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/form)
+
+![Form](https://res.cloudinary.com/practicaldev/image/fetch/s--HGZwbaTB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pqp0d43s21luol8wm45h.png)
+
+## Description
+
+The Form project is a comprehensive guide to working with HTML forms. Forms are an essential part of web development and user interaction. This project covers various aspects of creating, styling, and enhancing HTML forms, ensuring that they are both usable and accessible. You will learn how to create different types of forms, validate user inputs, style form elements, and build interactive forms for user interaction.
+
+<details>
+<summary>How to create an HTML5 form</summary>
+<br>
+
+- **Creating an HTML5 Form:** To create an HTML5 form, you need to use the `<form>` element as the container for your form elements. For example:
+
+```html
+<form>
+  <!-- Form elements go here -->
+</form>
+```
+
+You can add various form controls like text inputs, radio buttons, checkboxes, and more within the form element.
+
+</details>
+
+<details>
+<summary>How to choose the right input type</summary>
+<br>
+
+- **Choosing the Right Input Type:** HTML5 provides different input types tailored for specific purposes. Some common input types include:
+
+	- `text`: For single-line text inputs.
+	- `password`: For password inputs (masked characters).
+	- `email`: For email addresses.
+	- `number`: For numerical inputs.
+	- `radio and checkbox`: For selecting options from a list.
+	- `date`: For selecting dates.
+	- `file`: For uploading files.
+
+Choose the input type that best matches the data you want to collect from the user.
+</details>
+
+<details>
+<summary>How to constrain a form field with regular expressions</summary>
+<br>
+
+- **Constraining a Form Field with Regular Expressions:** You can use the pattern attribute along with regular expressions to constrain the input format. 
+
+For example, to validate an email input:
+
+```html
+<input type="email" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}">
+```
+
+This pattern ensures that the input follows a valid email format.
+
+</details>
+
+<details>
+<summary>How to style inputs for invalid, valid, and required fields</summary>
+<br>
+
+- **Styling Inputs for Invalid, Valid, and Required Fields:** You can use CSS pseudo-classes like `:invalid`, `:valid`, and `:required` to style form elements based on their validation state.
+
+For example:
+
+```css
+input:invalid {
+  border: 2px solid red;
+}
+
+input:valid {
+  border: 2px solid green;
+}
+
+input:required {
+  background-color: yellow;
+}
+```
+
+These styles will be applied based on the input's validation status.
+
+</details>
+
+<details>
+<summary>How to build a comment form</summary>
+<br>
+
+- **Building a Comment Form:** To create a comment form, you can use text areas for users to input their comments. 
+
+Example:
+
+```html
+<form>
+  <label for="comment">Leave a comment:</label>
+  <textarea id="comment" name="comment" rows="4" cols="50" required></textarea>
+  <button type="submit">Submit</button>
+</form>
+```
+
+This form allows users to leave comments and requires a comment before submission.
+
+</details>
+
+<details>
+<summary>How to build a simple search form</summary>
+<br>
+
+- **Building a Simple Search Form:** A search form typically uses a text input for users to enter search queries. 
+
+Example:
+
+```html
+<form>
+  <label for="search">Search:</label>
+  <input type="text" id="search" name="search" required>
+  <button type="submit">Search</button>
+</form>
+```
+
+This form enables users to enter search queries and submit them for searching.
+
+</details>
+
+<details>
+<summary>How to create usable and accessible forms</summary>
+<br>
+
+- **Creating Usable and Accessible Forms:** To make forms usable and accessible, consider the following:
+
+	- Use semantic HTML elements like `<label>`, `<fieldset>`, and `<legend>` for structure.
+	- Provide clear and concise labels for form fields.
+	- Use proper validation and error messages.
+	- Ensure keyboard navigation is intuitive.
+	- Test your forms with screen readers and other accessibility tools.
+	- Follow accessibility guidelines and standards to ensure all users can interact with your forms.
+</details>
+
+-----------------
+
 ## Author
 
 - Mathieu Morel
