@@ -556,12 +556,9 @@ box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
 
 ----------------------------
 
-## Projects
-
 ### [Developer Tools](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/developer_tools)
 
-#### `General`
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+![DALL·E 2023-12-16 17 27 58 - A panoramic image of a sophisticated web developer's workspace at night with a large neon sign above the monitor that brightly says 'DEVELOPER TOOLS'](https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/2d995986-1a29-4734-bcb5-da552f6f7f50)
 
 ## Description
 
