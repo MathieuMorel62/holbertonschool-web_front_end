@@ -52,9 +52,6 @@ cd responsive_design
 - **Screen Adaptability**: The site seamlessly adapts between mobiles, tablets, and desktops.
 - **Responsive Typography**: Font sizes adjust according to screen size.
 
-## Screenshot
-
-
 ## Contribution And Support
 To contribute, please fork the repository, create a branch, make your changes, and submit a pull request. If you encounter any issues, please open a ticket on the project's GitHub page.
 
