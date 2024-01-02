@@ -1005,6 +1005,92 @@ This form enables users to enter search queries and submit them for searching.
 
 -----------------
 
+# [Responsive Design](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/responsive_design)
+
+<img src="https://www.webfx.com/wp-content/uploads/2021/10/iStock-612224522.jpg" width="100%">
+
+
+## Description
+This project is an in-depth resource for designing responsive websites. It delves into essential techniques and concepts necessary for crafting web pages that dynamically adjust to various screen sizes, ensuring optimal user experience across devices. The project not only teaches the fundamentals of responsive design but also provides practical insights for effective implementation in web development.
+
+#### `General`
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+
+<details>
+<summary>Mobile-first design</summary>
+<br>
+
+- **Mobile-first Design**: This approach starts with designing for smaller screens and then scaling up for larger screens. It emphasizes performance and user experience on mobile devices.
+</details>
+<details>
+<summary>Media-queries</summary>
+<br>
+
+- **Media Queries**: These are CSS techniques used to apply styles based on device characteristics, such as screen size and orientation.
+</details>
+<details>
+<summary>Sizes for responsive design</summary>
+<br>
+
+- **Sizes for Responsive Web Design**: It includes guidelines for defining sizes in CSS that ensure web elements are displayed appropriately across devices.
+</details>
+<details>
+<summary>Making a website responsive</summary>
+<br>
+
+- **Making a Website Responsive**: This section discusses practical steps and CSS strategies to create fluid layouts that adapt to any screen size.
+</details>
+<details>
+<summary>Responsive vs Adaptive Design</summary>
+<br>
+
+- **Responsive vs. Adaptive Design**: This part outlines the differences between these two design approaches, highlighting their unique characteristics and use cases.
+</details>
+<details>
+<summary>CSS units for flexibility</summary>
+<br>
+
+- **CSS Units for Flexibility**: Here, the focus is on using relative CSS units like percentages, em, and rem to create flexible and adaptable web elements.
+</details>
+
+--------------------
+
+# [Accessibility](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/accessibility)
+
+<img src="https://communities.pacificu.edu/accessibility/wp-content/uploads/sites/1213/2021/04/websiteaccesibility-2-1200x385-1.png" width="100%">
+
+
+## Description
+This project is a thorough guide dedicated to web accessibility, emphasizing the essentiality of designing web content that is universally accessible, including for individuals with disabilities. It offers in-depth insights and practical methodologies for improving web accessibility, aiming to create a more inclusive and barrier-free digital environment.
+
+#### `General`
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+
+<details>
+<summary>ARIA’s Main Purpose</summary>
+<br>
+
+- **ARIA's Main Purpose**: Explains the role of ARIA in improving web accessibility by making web content more accessible to people with disabilities.
+</details>
+<details>
+<summary>WCAG Conformance Levels</summary>
+<br>
+
+- **WCAG Conformance Levels (A, AA, AAA)**: Discusses the three levels of WCAG conformance and their significance in ensuring web content meets various accessibility standards.
+</details>
+<details>
+<summary>Importance of Web Accessibility</summary>
+<br>
+
+- **The Importance of Web Accessibility**: Highlights why web accessibility is crucial for inclusive design and how it benefits all users.
+</details>
+<details>
+<summary>Tools for Web Accessibility</summary>
+<br>
+
+- **Tools to Use for Web Accessibility**: Provides a list of tools and resources that can be used to evaluate and enhance the accessibility of web content.
+</details>
+
 ## Author
 
 - Mathieu Morel
