@@ -1,5 +1,7 @@
 # Techium Project: Responsive Web Design
 
+<img width="1080" alt="Capture d’écran 2024-01-02 à 11 21 02" src="https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/6e3ed070-e0ad-4fde-8e6c-ef88a7adc9ce">
+
 ## Description
 Techium is an innovative and dynamic project focused on responsive web design. Our mission is to create aesthetically pleasing and functionally robust websites that perfectly adapt to all screen sizes. This project encompasses everything from the basics of mobile-first design to advanced CSS and HTML techniques for an optimized user experience across all devices. You can see the results of the website [here](http://localhost:5500/responsive_design/10-index.html).
 
