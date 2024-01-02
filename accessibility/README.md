@@ -79,5 +79,5 @@ Use keyboard shortcuts to navigate:
 11. **More than 2 elements become list**: Group related items in lists for better organization and accessibility.
 
 ## Contact
-- GitHub Project Link : [holbertonschool-web_front_end](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/accessibility)
+- GitHub Project Link : [Accessibility Project](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/accessibility)
 - LinkedIn Profile: [Mathieu Morel](https://www.linkedin.com/in/mathieu-morel-9ab457261/)
