@@ -1,4 +1,6 @@
-# Accessibility Project
+# <p align="center">Accessibility Project</p>
+
+<img src="https://storage.googleapis.com/prd-hatenaa-engineering-asset/20200413155357.jpg" width="100%">
 
 ## Description
 This project aims to improve web accessibility in accordance with WCAG guidelines. Developed to make websites more accessible to people with various disabilities, it focuses on keyboard navigation, color contrast adjustments, and adding ARIA attributes for better content comprehension by screen readers.
