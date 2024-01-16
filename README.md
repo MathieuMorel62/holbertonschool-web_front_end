@@ -1095,6 +1095,8 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 # [Bootstrap](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/Bootstrap)
 
+<img src="https://www.etatvasoft.com/insights/wp-content/uploads/2017/02/b-thumb-img9.jpg" width="100%">
+
 ## Description
 This project is a comprehensive guide focused on using Bootstrap for effective web design. It covers the foundational elements of Bootstrap, including Containers, Grid system, Components, and Utilities, aiming to equip learners with the skills needed to create responsive and aesthetically pleasing web layouts.
 
