@@ -17,9 +17,9 @@ This project aims to develop an advanced mastery of the Bootstrap CSS framework,
 1. Create a basic HTML file.
 2. Add the Bootstrap 4.4 CDN link in the `<head>` section of your HTML.
 
-
+```html
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-
+```
 
 3. Start adding Bootstrap components to your HTML file.
 
