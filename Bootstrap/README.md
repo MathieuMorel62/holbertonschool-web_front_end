@@ -26,10 +26,10 @@ This project aims to develop an advanced mastery of the Bootstrap CSS framework,
 ## Usage
 Example of layout with Bootstrap:
 
-- **Containers**: Use container classes to align your content.
-- **Grid System**: Use grid classes for a responsive layout.
-- **Components**: Integrate components such as buttons, cards, etc.
-- **Utilities**: Use utilities for spacing, text color, etc.
+- `**Containers**`: Use container classes to align your content.
+- `**Grid System**`: Use grid classes for a responsive layout.
+- `**Components**`: Integrate components such as buttons, cards, etc.
+- `**Utilities**`: Use utilities for spacing, text color, etc.
 
 ## Main Features
 - **Responsive Design**: Build interfaces that adapt to all screen sizes.
@@ -47,5 +47,5 @@ Example of layout with Bootstrap:
 6. [**Overwrite CSS**](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/Bootstrap/6-styles.css): Customizing Bootstrap styles​​. [Look Here](https://mathieumorel62.github.io/holbertonschool-web_front_end/Bootstrap/6-index.html)
 
 ## Contact
-- **LinkedIn Profile**: [Mathieu Morel]((https://www.linkedin.com/in/mathieu-morel-9ab457261/))
+- **LinkedIn Profile**: [Mathieu Morel](https://www.linkedin.com/in/mathieu-morel-9ab457261/)
 - **GitHub Project Link**: [Bootstrap Project](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/Bootstrap)
