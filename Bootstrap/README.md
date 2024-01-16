@@ -26,10 +26,10 @@ This project aims to develop an advanced mastery of the Bootstrap CSS framework,
 ## Usage
 Example of layout with Bootstrap:
 
-- `**Containers**`: Use container classes to align your content.
-- `**Grid System**`: Use grid classes for a responsive layout.
-- `**Components**`: Integrate components such as buttons, cards, etc.
-- `**Utilities**`: Use utilities for spacing, text color, etc.
+- **`Containers`**: Use container classes to align your content.
+- **`Grid System`**: Use grid classes for a responsive layout.
+- **`Components`**: Integrate components such as buttons, cards, etc.
+- **`Utilities`**: Use utilities for spacing, text color, etc.
 
 ## Main Features
 - **Responsive Design**: Build interfaces that adapt to all screen sizes.
