@@ -32,9 +32,9 @@ Example of layout with Bootstrap:
 - **`Utilities`**: Use utilities for spacing, text color, etc.
 
 ## Main Features
-- **Responsive Design**: Build interfaces that adapt to all screen sizes.
-- **Powerful Grid System**: Makes creating complex layouts easier.
-- **Ready-to-use Components**: Reduce development time with built-in components.
+- **`Responsive Design`**: Build interfaces that adapt to all screen sizes.
+- **`Powerful Grid System`**: Makes creating complex layouts easier.
+- **`Ready-to-use Components`**: Reduce development time with built-in components.
 
 ## List of Tasks to Accomplish
 0. [**Reboot Styling**](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/Bootstrap/0-index.html): Resetting default styles. [Look Here](https://mathieumorel62.github.io/holbertonschool-web_front_end/Bootstrap/0-index.html)
