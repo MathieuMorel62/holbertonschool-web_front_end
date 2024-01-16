@@ -1091,6 +1091,46 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - **Tools to Use for Web Accessibility**: Provides a list of tools and resources that can be used to evaluate and enhance the accessibility of web content.
 </details>
 
+----------------------
+
+# [Bootstrap](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/Bootstrap)
+
+## Description
+This project is a comprehensive guide focused on using Bootstrap for effective web design. It covers the foundational elements of Bootstrap, including Containers, Grid system, Components, and Utilities, aiming to equip learners with the skills needed to create responsive and aesthetically pleasing web layouts.
+
+#### `General`
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+
+<details>
+<summary>Usage of Containers</summary>
+<br>
+
+- **Usage of Containers**: How to use Bootstrap containers to center your website's content within a fixed or full-width layout. For example, wrapping text and images in a `.container` for a responsive design.
+</details>
+
+<details>
+<summary>Usage of the Grid System</summary>
+<br>
+
+- **Usage of the Grid System**: Creating responsive layouts using rows and columns. Example: Using `.row` and `.col` classes to divide a section into three equal columns.
+</details>
+
+<details>
+<summary>Usage of Components</summary>
+<br>
+
+- **Usage of Components**: Adding Bootstrap components like navigation bars or cards. For instance, using `.navbar` to create a top navigation menu.
+</details>
+
+<details>
+<summary>Usage of Utilities</summary>
+<br>
+
+- **Usage of Utilities**: Utilizing Bootstrap's utility classes for spacing, like `.mt-2` (margin-top) to add spacing above an element.
+</details>
+
+-------------------
+
 ## Author
 
 - Mathieu Morel
