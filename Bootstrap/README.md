@@ -1,6 +1,6 @@
 # <p align="center">Bootstrap</p>
 
-![Bootstrap](https://www.etatvasoft.com/insights/wp-content/uploads/2017/02/b-thumb-img9.jpg)
+<img src="https://www.etatvasoft.com/insights/wp-content/uploads/2017/02/b-thumb-img9.jpg" width="100%">
 
 ## Description
 This project aims to develop an advanced mastery of the Bootstrap CSS framework, focused on creating responsive and mobile-first web components. Using Bootstrap, this project focuses solely on the CSS styling part, offering an opportunity to deeply explore the multiple components, tools, and grid systems that Bootstrap provides. The goal is to create elegant, responsive, and accessible user interfaces, suitable for a wide range of devices and screen sizes.
