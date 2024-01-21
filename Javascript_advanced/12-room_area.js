@@ -1,4 +1,4 @@
-let roomDimensions = {
+const roomDimensions = {
   width: 50,
   lenght: 100,
   getArea: function () {
