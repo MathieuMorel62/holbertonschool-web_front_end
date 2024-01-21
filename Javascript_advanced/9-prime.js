@@ -4,7 +4,7 @@ const { performance } = require("perf_hooks");
 /**
  * Checks if a number is prime.
  * 
- * @param {*} number The number to check.
+ * @param {number} number The number to check.
  * @returns {boolean} True if the number is prime, false otherwise.
  */
 function isPrime(number) {
