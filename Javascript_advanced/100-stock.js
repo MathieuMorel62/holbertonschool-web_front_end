@@ -1,6 +1,6 @@
 const stock = {
   macbook: 2,
-  iphone: 4
+  iphone: 4,
 };
 
 /**
