@@ -27,7 +27,7 @@
             $('<tr>').append(
               $('<td>').text(firstName),
               $('<td>').text(lastName),
-              $('<td>').text('(x)').css({'background-color': 'orange', 'cursor': 'pointer', 'width': '20px', 'height': '20px', 'text-align': 'center'}).click(function () {
+              $('<td>').text('(x)').css({'background-color': 'orange', 'cursor': 'pointer',}).click(function () {
                 $(this).parent().remove();
               })
             );
