@@ -1,24 +1,9 @@
 {
   "posts": [
     {
-      "id": "1",
-      "title": "Introduction to JSON Server",
-      "author": "John Doe"
-    },
-    {
-      "id": "2",
-      "title": "How to Use JSON Server",
-      "author": "Jane Smith"
-    },
-    {
       "id": "3",
       "title": "Advanced JSON Server Techniques",
       "author": "Alice Johnson"
-    },
-    {
-      "id": "4",
-      "title": "Understanding REST APIs",
-      "author": "Chris Adams"
     },
     {
       "id": "5",
@@ -44,11 +29,6 @@
       "id": "9",
       "title": "Building Scalable Web Applications",
       "author": "Rebecca Moore"
-    },
-    {
-      "id": "10",
-      "title": "Deploying Applications with Docker",
-      "author": "Michael Brown"
     }
   ],
   "comments": [
