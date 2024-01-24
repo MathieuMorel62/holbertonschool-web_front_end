@@ -57,12 +57,17 @@
       };
 
       const listPosts = () => {
-        $.get('http://localhost:3000/posts').done(function(data) {
-          data.forEach(element => addPostRow(element));
-        }).fail(function() {
-          alert('Server Error');
+        $.ajax({
+          url: 'http://localhost:3000/posts',
+          type: 'GET',
+          success: function(data) {
+            data.forEach(element => addPostRow(element));
+          },
+          error: function() {
+            alert('Server Error');
+          }
         });
-      }
+      };
 
       listPosts();
       buildForm();
