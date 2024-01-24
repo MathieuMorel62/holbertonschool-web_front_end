@@ -8,7 +8,8 @@
   <script type="application/javascript">
     $(document).ready(() => {
       const addPostRow = (data) => {
-        $('body').append(`<p><span>Post created with id ${data.id}, title: ${data.title}, author: ${data.author}</span></p>`)
+        const postRow = $(`<p><span>Post created with id ${data.id}, title: ${data.title}, author: ${data.author}</span></p>`);
+        $('#postForm').after(postRow);
       }
 
       const buildForm = () => {
@@ -39,7 +40,7 @@
           title: $('#title').val()
         };
 
-        $('form').after('<p>About to send the query to the API</p>');
+        $('#postForm').after('<p>About to send the query to the API</p>');
 
         $.ajax({
           url: 'http://localhost:3000/posts',
