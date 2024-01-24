@@ -38,6 +38,7 @@
         // Function to query Wikipedia
         const queryWikipedia = (search) => {
           const requestData = {
+            type: 'GET',
             action: 'query',
             format: 'json',
             list: 'search',
