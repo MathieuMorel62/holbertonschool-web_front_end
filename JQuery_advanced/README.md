@@ -1,4 +1,6 @@
-# JQuery Advanced
+# <p align="center">JQuery Advanced</p>
+
+<img src="https://www.skyminds.net/wp-content/uploads/2019/08/jquery-banner-scaled.jpg" width="100%">
 
 ## Description
 The "JQuery Advanced" project is an in-depth exploration of the JavaScript jQuery library, focused on enhancing skills in DOM manipulation, AJAX requests, and dynamic web content creation. This project enables developers to master advanced JQuery techniques for creating more interactive and efficient web interactions. By focusing on real-world use cases, this project provides a practical understanding of JQuery methods, including element manipulation, event handling, and asynchronous request execution.
