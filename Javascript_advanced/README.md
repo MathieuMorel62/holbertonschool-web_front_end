@@ -1,4 +1,6 @@
-# Javascript Advanced
+# <p align="center">Javascript Advanced</p>
+
+![javascript](https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/5c3f7854-39ee-4cbc-a93d-b0090df09276)
 
 ## Description
 This advanced JavaScript project is designed to deepen understanding and mastery of advanced JavaScript concepts. It focuses on aspects such as lexical scoping, closures, private methods with closures, DOM manipulation, and the use of callbacks and asynchronous functions. The project aims to solve complex front-end programming problems using advanced techniques, thus enhancing JavaScript skills and developing more efficient and maintainable web applications.
