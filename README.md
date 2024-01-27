@@ -1,75 +1,8 @@
-# <p align="center">Web Front End</p>
-<img src="https://www.filepicker.io/api/file/eYA6E8L3TiGl0GxpQoS6" width="100%">
+<details>
+<summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/html_advanced">Advanced HTML Project</a></summary>
 
 ## Description
-### Web Frontend, HTML, and CSS
-
-The Web Frontend is the visual part of a website that allows users to interact with its content. The user interface (UI) and user experience (UX) are crucial to the success of any website. **HTML** and **CSS** are the two fundamental technologies used to create beautiful and functional web pages.
-
-### HTML (HyperText Markup Language)
-
 HTML is the standard markup language used to structure and display content on the web. HTML allows developers to organize text, images, videos, and links into different elements, such as paragraphs, headings, lists, and tables. This organization creates a structure for the website, making it easier to understand and navigate for the user.
-  
-Here's an example of HTML code that creates a simple webpage:
-
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>My Webpage</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <h1>Welcome to My Webpage</h1>
-    <p>This is a paragraph of text.</p>
-    <img src="image.jpg" alt="An image">
-  </body>
-</html>
-```
-
-### CSS (Cascading Style Sheets)
-
-CSS is a style sheet language used to define the visual appearance and layout of HTML elements. CSS enables developers to control the color, font, size, spacing, and other styling aspects of the website, giving designers the flexibility to create visually stunning and unique websites.
-  
-By combining HTML and CSS, web developers can create intuitive and responsive designs for their websites. The use of responsive web design techniques ensures that websites look great on any device, from desktops to mobile phones.
-  
-Web development frameworks such as Bootstrap, Foundation, and Materialize can help developers create consistent and responsive designs more quickly by providing pre-defined components and customizable CSS styles.
-  
-Here's an example of CSS code that styles the HTML elements in our example webpage:
-
-```css
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f1f1f1;
-}
-
-h1 {
-  color: #333;
-  text-align: center;
-}
-
-p {
-  font-size: 16px;
-  line-height: 1.5;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
-```
-
-### Conclusion
-
-In summary, Web Frontend Development using HTML and CSS is essential to creating modern, beautiful, and functional websites. With the help of web development frameworks, designers can create intuitive and responsive designs that offer an exceptional user experience.
-
------------------------------
-
-## Projects
-
-# [Advanced HTML](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/html_advanced)
 
 #### `General`
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
@@ -307,10 +240,14 @@ To structure an HTML page correctly, you should follow a few best practices:
 - Validate the HTML code to ensure that it's error-free and follows the standards.
 
 </details>
+</details>
 
--------------------------------
+<details>
+<summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/CSS_advanced
+">Advanced CSS Project</a></summary> 
 
-# [Advanced CSS](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/CSS_advanced)
+## Description
+CSS is a style sheet language used to define the visual appearance and layout of HTML elements. CSS enables developers to control the color, font, size, spacing, and other styling aspects of the website, giving designers the flexibility to create visually stunning and unique websites.
 
 #### `General`
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
@@ -553,10 +490,10 @@ box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
 -ms-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* Internet Explorer */
 ```
 </details>
+</details>
 
-----------------------------
-
-# [Developer Tools](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/developer_tools)
+<details>
+<summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/developer_tools">Developer Tools</a></summary>
 
 ![DALL·E 2023-12-16 17 27 58 - A panoramic image of a sophisticated web developer's workspace at night with a large neon sign above the monitor that brightly says 'DEVELOPER TOOLS'](https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/2d995986-1a29-4734-bcb5-da552f6f7f50)
 
@@ -648,10 +585,10 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - `DOM Manipulation`: In the `Elements` tab, you can drag and drop HTML elements to rearrange them on the page.
 
 </details>
+</details>
 
-----------------------
-
-# [Sass & Scss](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/sass_scss)
+<details>
+<summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/sass_scss">Sass & Scss</a></summary>
 
 ![SASS & SCSS](https://www.boardinfinity.com/blog/content/images/2023/03/Copy-of-XML-vsJSON.png)
 
@@ -763,10 +700,10 @@ nav {
 - `Operators`: Sass supports standard math operators like `+`, `-`, `*`, `/`, and `%` for operations on numbers, colors, and variables. For example, `$width: 100% / 3;`.
 
 </details>
+</details>
 
-------------------
-
-# [Flexbox](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/flexbox)
+<details>
+<summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/flexbox">Flexbox</a></summary>
 
 ![Flexbox](https://miro.medium.com/v2/resize:fit:2000/1*--hxH0rxCaJ3CbY5LJBeXg.png)
 
@@ -860,10 +797,10 @@ At the end of this project, you are expected to be able to [explain to anyone](h
   5. Adjust Flexbox properties as needed to fine-tune the layout and alignment based on user feedback and design requirements.
 
 </details>
+</details>
 
----------------------
-
-# [Form](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/form)
+<details>
+<summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/form">Form</a></summary>
 
 ![Form](https://res.cloudinary.com/practicaldev/image/fetch/s--HGZwbaTB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pqp0d43s21luol8wm45h.png)
 
@@ -1002,10 +939,10 @@ This form enables users to enter search queries and submit them for searching.
 	- Test your forms with screen readers and other accessibility tools.
 	- Follow accessibility guidelines and standards to ensure all users can interact with your forms.
 </details>
+</details>
 
------------------
-
-# [Responsive Design](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/responsive_design)
+<details>
+<summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/responsive_design">Responsive Design</a></summary>
 
 <img src="https://www.webfx.com/wp-content/uploads/2021/10/iStock-612224522.jpg" width="100%">
 
@@ -1052,13 +989,12 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 - **CSS Units for Flexibility**: Here, the focus is on using relative CSS units like percentages, em, and rem to create flexible and adaptable web elements.
 </details>
+</details>
 
---------------------
-
-# [Accessibility](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/accessibility)
+<details>
+<summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/accessibility">Accessibility</a></summary>
 
 <img src="https://communities.pacificu.edu/accessibility/wp-content/uploads/sites/1213/2021/04/websiteaccesibility-2-1200x385-1.png" width="100%">
-
 
 ## Description
 This project is a thorough guide dedicated to web accessibility, emphasizing the essentiality of designing web content that is universally accessible, including for individuals with disabilities. It offers in-depth insights and practical methodologies for improving web accessibility, aiming to create a more inclusive and barrier-free digital environment.
@@ -1090,10 +1026,10 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 - **Tools to Use for Web Accessibility**: Provides a list of tools and resources that can be used to evaluate and enhance the accessibility of web content.
 </details>
+</details>
 
-----------------------
-
-# [Bootstrap](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/Bootstrap)
+<details>
+<summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/Bootstrap">Bootstrap</a></summary>
 
 <img src="https://www.etatvasoft.com/insights/wp-content/uploads/2017/02/b-thumb-img9.jpg" width="100%">
 
@@ -1130,10 +1066,10 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 - **Usage of Utilities**: Utilizing Bootstrap's utility classes for spacing, like `.mt-2` (margin-top) to add spacing above an element.
 </details>
+</details>
 
--------------------
-
-# [Javascript Advanced](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/Javascript_advanced)
+<details>
+<summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/Javascript_advanced">Javascript Advanced</a></summary>
 
 <img src="https://cdn.sanity.io/images/708bnrs8/production/cc0ad11bff70c1f3b4c29381edf0a1778e6a7efb-704x405.png?w=720&h=405&fit=fill" width="100%">
 
@@ -1324,10 +1260,10 @@ fetchData((data) => {
 ```
 
 </details>
+</details>
 
--------------------------
-
-# [JQuery Advanced](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/JQuery_advanced)
+<details>
+<summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/JQuery_advanced">JQuery Advanced</a></summary>
 
 <img src="https://images.velog.io/images/jjang9b/post/44f14f76-f29a-4775-8512-94438b8e57d2/3.png" width="100%">
 
@@ -1426,6 +1362,7 @@ $('.pagination').on('click', 'a', function(e) {
 });
 ```
 
+</details>
 </details>
 
 ------------------
