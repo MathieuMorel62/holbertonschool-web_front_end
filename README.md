@@ -1373,4 +1373,4 @@ $('.pagination').on('click', 'a', function(e) {
 
 ## Author
 
-- Mathieu Morel
+- **LinkedIn Profile**: [Mathieu Morel](https://www.linkedin.com/in/mathieu-morel-9ab457261/)
