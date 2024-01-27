@@ -1138,7 +1138,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 <img src="" width="100%">
 
 ## Description
-This project is an exploration into the advanced aspects of JavaScript, delving into more complex concepts that are foundational to modern web development. It offers an understanding of how JavaScript's unique features can be harnessed to create more efficient, readable, and scalable code. By the end of this project, you will gain a deeper insight into JavaScript's functionality and how to apply these advanced techniques in real-world scenarios.
+This project is an exploration into the advanced aspects of **JavaScript**, delving into more complex concepts that are foundational to modern web development. It offers an understanding of how **JavaScript's** unique features can be harnessed to create more efficient, readable, and scalable code. By the end of this project, you will gain a deeper insight into **JavaScript's** functionality and how to apply these advanced techniques in real-world scenarios.
 
 #### `General`
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
@@ -1323,6 +1323,26 @@ fetchData((data) => {
 });
 ```
 
+</details>
+
+-------------------------
+
+# [JQuery Advanced](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/JQuery_advanced)
+
+<img src="" width="100%">
+
+## Description
+This **advanced JQuery** project aims to deepen your understanding and skills in **JQuery**. It focuses on practical applications and more complex aspects of **JQuery**, enabling you to leverage this powerful library for more advanced front-end development tasks.
+
+
+#### `General`
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+
+<details>
+<summary></summary>
+<br>
+
+- ****: 
 </details>
 
 ------------------
