@@ -1339,10 +1339,93 @@ This **advanced JQuery** project aims to deepen your understanding and skills in
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 <details>
-<summary></summary>
+<summary>Learn how to load jQuery from a CDN in a page</summary>
 <br>
 
-- ****: 
+- **Load JQuery from a CDN**: Understand how to incorporate jQuery into your projects via a CDN. This method ensures you're using a version of jQuery that's fast and reliable.
+
+```html
+<script src="https://code.jquery.com/jquery-3.7.1.slim.min.js"></script>
+```
+
+</details>
+<details>
+<summary>Learn the different ways to create DOM elements with jQuery</summary>
+<br>
+
+- **Create DOM Elements with jQuery**: Learn various techniques to dynamically create and manipulate DOM elements. This skill is essential for adding interactive content to web pages.
+
+```javascript
+var newDiv = $('<div/>', { id: 'newDiv', text: 'Hello, World!' });
+```
+
+</details>
+<details>
+<summary>Learn how to modify elements</summary>
+<br>
+
+- **Modify Elements**: Explore how to modify existing elements on the page, a key aspect of creating a dynamic user experience.
+
+```javascript
+$('#myDiv').text('New Text');
+```
+
+</details>
+<details>
+<summary>Learn how to add new elements to a page with different positions</summary>
+<br>
+
+- **Add New Elements with Different Positions**: Discover how to insert new elements at specific positions within the DOM, enhancing your ability to create complex layouts.
+
+```javascript
+$('<p>New Paragraph</p>').appendTo('body');
+```
+
+</details>
+<details>
+<summary>Learn how to add a click handler on an element</summary>
+<br>
+
+- **Add Click Handlers**: Learn to attach event handlers to elements, a crucial part of making your web pages interactive.
+
+```javascript
+$('#myButton').click(function() { alert('Button clicked!'); });
+```
+
+</details>
+<details>
+<summary>Learn how to send GET, POST, DELETE or any type of AJAX query with jQuery</summary>
+<br>
+
+- **Send AJAX Queries**: Master the art of sending various types of AJAX requests, a vital skill for interacting with servers and APIs.
+
+- GET Request:
+
+```javascript
+$.get('https://api.example.com/data', function(data) { console.log(data); });
+```
+
+- POST Request:
+
+```javascript
+$.post('https://api.example.com/data', { name: 'John' }, function(data) { console.log(data); });
+```
+
+</details>
+<details>
+<summary>Learn how to create a pagination</summary>
+<br>
+
+- **Create Pagination**: Implement pagination, an important feature for handling large sets of data efficiently on web pages.
+
+```javascript
+$('.pagination').on('click', 'a', function(e) {
+    e.preventDefault();
+    var page = $(this).attr('href');
+    // Load content for the page
+});
+```
+
 </details>
 
 ------------------
