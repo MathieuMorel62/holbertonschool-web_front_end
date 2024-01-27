@@ -1,6 +1,8 @@
 <details>
 <summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/html_advanced">Advanced HTML Project</a></summary>
 
+<img src="https://resources.reed.co.uk/courses/coursemedia/436537/6a1e69a6-6922-43ab-bc85-5d8548a32e20_cover.webp" width="100%">
+
 ## Description
 HTML is the standard markup language used to structure and display content on the web. HTML allows developers to organize text, images, videos, and links into different elements, such as paragraphs, headings, lists, and tables. This organization creates a structure for the website, making it easier to understand and navigate for the user.
 
@@ -245,6 +247,8 @@ To structure an HTML page correctly, you should follow a few best practices:
 <details>
 <summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/CSS_advanced
 ">Advanced CSS Project</a></summary> 
+
+<img src="https://learn.viblo.asia/uploads/9/8/98f8d17e-0610-4057-b5c2-c44f2a7675d7.jpg" width="100%">
 
 ## Description
 CSS is a style sheet language used to define the visual appearance and layout of HTML elements. CSS enables developers to control the color, font, size, spacing, and other styling aspects of the website, giving designers the flexibility to create visually stunning and unique websites.
