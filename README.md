@@ -1133,6 +1133,200 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 -------------------
 
+# [Javascript Advanced](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/Javascript_advanced)
+
+<img src="" width="100%">
+
+## Description
+This project is an exploration into the advanced aspects of JavaScript, delving into more complex concepts that are foundational to modern web development. It offers an understanding of how JavaScript's unique features can be harnessed to create more efficient, readable, and scalable code. By the end of this project, you will gain a deeper insight into JavaScript's functionality and how to apply these advanced techniques in real-world scenarios.
+
+#### `General`
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+
+<details>
+<summary>What is lexical scoping in JavaScript</summary>
+<br>
+
+- **Lexical Scoping**: This refers to the scope defined at lexing time, where variables declared outside a block are accessible inside the block, but not vice versa. It's about how a parser resolves variable names when functions are nested.
+
+Exemple:
+
+```javascript
+function outerFunction() {
+    var outerVar = 'I am outside!';
+
+    function innerFunction() {
+        console.log(outerVar); // Accesses variable from the outer scope
+    }
+
+    innerFunction();
+}
+outerFunction();
+// Output: 'I am outside!'
+```
+
+</details>
+<details>
+<summary>What is closure in JavaScript</summary>
+<br>
+
+- **Closure**: A closure is a function having access to the parent scope, even after the parent function has closed. This is crucial for understanding how to manage and maintain state in a program.
+
+Exemple:
+
+```javascript
+function createCounter() {
+    let count = 0;
+    return function() {
+        count++;
+        console.log(count);
+    };
+}
+
+const counter = createCounter();
+counter(); // Output: 1
+counter(); // Output: 2
+```
+
+</details>
+<details>
+<summary>How to use closure</summary>
+<br>
+
+- **Using Closure**: Demonstrates how to effectively use closures for tasks like data encapsulation and the creation of function factories.
+
+Exemple:
+
+```javascript
+function createGreeting(greeting) {
+    return function(name) {
+        console.log(greeting + ', ' + name);
+    };
+}
+
+const greetHello = createGreeting('Hello');
+greetHello('Alice'); // Output: 'Hello, Alice'
+```
+
+</details>
+<details>
+<summary>How to chain different closures</summary>
+<br>
+
+- **Chaining Different Closures**: This topic covers how to connect multiple closures, allowing for more dynamic and flexible code structures.
+
+Exemple:
+
+```javascript
+function multiply(x) {
+    return function(y) {
+        return x * y;
+    };
+}
+
+const multiplyByTwo = multiply(2);
+const result = multiplyByTwo(3); // Output: 6
+```
+
+</details>
+<details>
+<summary>How to simulate private methods with Closure</summary>
+<br>
+
+- **Simulating Private Methods with Closure**: Explains how closures can be used to simulate private methods in JavaScript, a technique useful for encapsulating functionality and state within a module or function.
+
+Exemple:
+
+```javascript
+function person() {
+    let name = 'John Doe';
+
+    return {
+        getName: function() {
+            return name;
+        },
+        setName: function(newName) {
+            name = newName;
+        }
+    };
+}
+
+const personInstance = person();
+console.log(personInstance.getName()); // Output: 'John Doe'
+personInstance.setName('Alice');
+console.log(personInstance.getName()); // Output: 'Alice'
+```
+
+</details>
+<details>
+<summary>The execution stack order with JavaScript</summary>
+<br>
+
+- **The Execution Stack Order**: This concept delves into how JavaScript's execution context stack works, particularly in terms of function execution and variable scoping.
+
+Exemple:
+
+```javascript
+function firstFunction() {
+    secondFunction();
+    console.log('First function executed');
+}
+
+function secondFunction() {
+    console.log('Second function executed');
+}
+
+firstFunction();
+// Output: 'Second function executed'
+// Output: 'First function executed'
+```
+
+</details>
+<details>
+<summary>How to use binding</summary>
+<br>
+
+- **Using Binding**: Covers the use of `this` binding in JavaScript and how to control and understand the context in which a function is executed.
+
+Exemple:
+
+```javascript
+const person = {
+    name: 'John',
+    greet: function() {
+        console.log('Hello, ' + this.name);
+    }
+};
+
+const greetPerson = person.greet.bind(person);
+greetPerson(); // Output: 'Hello, John'
+```
+
+</details>
+<details>
+<summary>How to use callbacks</summary>
+<br>
+
+- **Using Callbacks**: Discusses the role of callback functions in asynchronous programming, event handling, and managing the flow of data and execution in JavaScript applications.
+
+Exemple:
+
+```javascript
+function fetchData(callback) {
+    setTimeout(() => {
+        callback('Data fetched');
+    }, 1000);
+}
+
+fetchData((data) => {
+    console.log(data); // Output after 1 second: 'Data fetched'
+});
+```
+
+</details>
+
+------------------
+
 ## Author
 
 - Mathieu Morel
