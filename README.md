@@ -1135,7 +1135,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 # [Javascript Advanced](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/Javascript_advanced)
 
-<img src="" width="100%">
+<img src="https://cdn.sanity.io/images/708bnrs8/production/cc0ad11bff70c1f3b4c29381edf0a1778e6a7efb-704x405.png?w=720&h=405&fit=fill" width="100%">
 
 ## Description
 This project is an exploration into the advanced aspects of **JavaScript**, delving into more complex concepts that are foundational to modern web development. It offers an understanding of how **JavaScript's** unique features can be harnessed to create more efficient, readable, and scalable code. By the end of this project, you will gain a deeper insight into **JavaScript's** functionality and how to apply these advanced techniques in real-world scenarios.
@@ -1329,7 +1329,7 @@ fetchData((data) => {
 
 # [JQuery Advanced](https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/JQuery_advanced)
 
-<img src="" width="100%">
+<img src="https://images.velog.io/images/jjang9b/post/44f14f76-f29a-4775-8512-94438b8e57d2/3.png" width="100%">
 
 ## Description
 This **advanced JQuery** project aims to deepen your understanding and skills in **JQuery**. It focuses on practical applications and more complex aspects of **JQuery**, enabling you to leverage this powerful library for more advanced front-end development tasks.
