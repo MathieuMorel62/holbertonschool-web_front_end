@@ -1,3 +1,9 @@
+# Welcome to the World of Front End Web Development
+
+![webDev](https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/d1cd7378-5536-4fb3-baf9-f24c4b98286d)
+
+Welcome to this space dedicated to Front End Web Development. Here, you will discover a series of projects covering `HTML`, `CSS`, `JavaScript`, `jQuery`, and `Bootstrap`, reflecting a passion for web technologies and a commitment to practical learning. This repository is an ideal resource for anyone interested in modern web development.
+
 <details>
 <summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/html_advanced">Advanced HTML Project</a></summary>
 
