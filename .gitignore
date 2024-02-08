@@ -1,0 +1,6 @@
+# Node
+node_modules
+
+# Json package
+package-lock.json
+package.json
