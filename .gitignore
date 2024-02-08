@@ -4,3 +4,6 @@ node_modules
 # Json package
 package-lock.json
 package.json
+
+# Webpack
+webpack.config.js
