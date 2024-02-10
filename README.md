@@ -5,6 +5,7 @@
 Welcome to this space dedicated to Front End Web Development. Here, you will discover a series of projects covering `HTML`, `CSS`, `JavaScript`, `jQuery`, and `Bootstrap`, reflecting a passion for web technologies and a commitment to practical learning. This repository is an ideal resource for anyone interested in modern web development.
 
 <details>
+<br>
 <summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/html_advanced">Advanced HTML Project</a></summary>
 
 <img src="https://resources.reed.co.uk/courses/coursemedia/436537/6a1e69a6-6922-43ab-bc85-5d8548a32e20_cover.webp" width="100%">
@@ -251,6 +252,7 @@ To structure an HTML page correctly, you should follow a few best practices:
 </details>
 
 <details>
+<br>
 <summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/CSS_advanced
 ">Advanced CSS Project</a></summary> 
 
@@ -503,6 +505,7 @@ box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
 </details>
 
 <details>
+<br>
 <summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/developer_tools">Developer Tools</a></summary>
 
 ![DALL·E 2023-12-16 17 27 58 - A panoramic image of a sophisticated web developer's workspace at night with a large neon sign above the monitor that brightly says 'DEVELOPER TOOLS'](https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/2d995986-1a29-4734-bcb5-da552f6f7f50)
@@ -598,6 +601,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 </details>
 
 <details>
+<br>
 <summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/sass_scss">Sass & Scss</a></summary>
 
 ![SASS & SCSS](https://www.boardinfinity.com/blog/content/images/2023/03/Copy-of-XML-vsJSON.png)
@@ -713,6 +717,7 @@ nav {
 </details>
 
 <details>
+<br>
 <summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/flexbox">Flexbox</a></summary>
 
 ![Flexbox](https://miro.medium.com/v2/resize:fit:2000/1*--hxH0rxCaJ3CbY5LJBeXg.png)
@@ -810,6 +815,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 </details>
 
 <details>
+<br>
 <summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/form">Form</a></summary>
 
 ![Form](https://res.cloudinary.com/practicaldev/image/fetch/s--HGZwbaTB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pqp0d43s21luol8wm45h.png)
@@ -952,6 +958,7 @@ This form enables users to enter search queries and submit them for searching.
 </details>
 
 <details>
+<br>
 <summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/responsive_design">Responsive Design</a></summary>
 
 <img src="https://www.webfx.com/wp-content/uploads/2021/10/iStock-612224522.jpg" width="100%">
@@ -1002,6 +1009,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 </details>
 
 <details>
+<br>
 <summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/accessibility">Accessibility</a></summary>
 
 <img src="https://communities.pacificu.edu/accessibility/wp-content/uploads/sites/1213/2021/04/websiteaccesibility-2-1200x385-1.png" width="100%">
@@ -1039,6 +1047,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 </details>
 
 <details>
+<br>
 <summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/Bootstrap">Bootstrap</a></summary>
 
 <img src="https://www.etatvasoft.com/insights/wp-content/uploads/2017/02/b-thumb-img9.jpg" width="100%">
@@ -1079,6 +1088,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 </details>
 
 <details>
+<br>
 <summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/Javascript_advanced">Javascript Advanced</a></summary>
 
 <img src="https://cdn.sanity.io/images/708bnrs8/production/cc0ad11bff70c1f3b4c29381edf0a1778e6a7efb-704x405.png?w=720&h=405&fit=fill" width="100%">
@@ -1273,6 +1283,7 @@ fetchData((data) => {
 </details>
 
 <details>
+<br>
 <summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/JQuery_advanced">JQuery Advanced</a></summary>
 
 <img src="https://images.velog.io/images/jjang9b/post/44f14f76-f29a-4775-8512-94438b8e57d2/3.png" width="100%">
@@ -1376,6 +1387,7 @@ $('.pagination').on('click', 'a', function(e) {
 </details>
 
 <details>
+<br>
 <summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/Cookies_local_storage">Cookies Local Storage</a></summary>
 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652362779790/CNwvZWFHo.png" width="100%">
