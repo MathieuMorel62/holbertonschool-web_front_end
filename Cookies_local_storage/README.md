@@ -1,6 +1,6 @@
-# Project: Cookies & Local Storage
+# <p align="center">Project: Cookies & Local Storage</p>
 
-![Project Image](image_link)
+![cookies](https://github.com/MathieuMorel62/holbertonschool-web_front_end/assets/113856302/63e6e585-09ad-428e-be9b-564f177f2be5)
 
 ## 📝 Description
 The "Cookies & Local Storage" project focuses on using and manipulating cookies and local storage in web development. Learning objectives include creating cookies with JavaScript, using js-cookie for cookie manipulation, and leveraging browser web storage to build shopping cart systems.
@@ -11,6 +11,7 @@ The "Cookies & Local Storage" project focuses on using and manipulating cookies 
 - [Web API Cookies Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
 - [Guide on Local and Session Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 - [JavaScript Cookies Tutorial](https://www.w3schools.com/js/js_cookies.asp)
+- [Web Storage](https://www.w3schools.com/html/html5_webstorage.asp)
 
 ## 🛠️ Technologies and Tools Used
 - `JavaScript`: Primary programming language for client-side interactions.
@@ -57,14 +58,14 @@ node_modules/.bin/webpack-dev-server
 3. **Using Local and Session Storage**: Building shopping cart systems.
 
 ## 📝 Task List
-0. [**Create Basic Cookie**](0-index.html) : Creation of a simple cookie with HTML and JavaScript.
-1. [**Create Cookie With Expiration Date And Specific Path Mandatory**](1-index.html) : Modification of cookies to expire after 10 days.
-2. [**Read Cookie**](2-index.html) : Function to read the value of a specific cookie.
-3. [**Delete Cookie And Mini Application**](3-index.html) : Added a login form in the HTML.
-4. [**Use js-cookie**](4-index.html) : Integration of the js-cookie library for cookie management.
-5. [**Local Storage**](5-index.html) : Construction of a simple shopping cart using local storage.
-6. [**Session Storage**](6-index.html) : Replacement of local storage with session storage.
-7. [**Advanced Use Of Web Storage**](7-index.html) : Creation of a more advanced shopping cart system with session storage.
+0. [**Create Basic Cookie**](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/Cookies_local_storage/0-index.html): Creation of a simple cookie with HTML and JavaScript.
+1. [**Create Cookie With Expiration Date And Specific Path Mandatory**](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/Cookies_local_storage/1-index.html): Modification of cookies to expire after 10 days.
+2. [**Read Cookie**](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/Cookies_local_storage/2-index.html): Function to read the value of a specific cookie.
+3. [**Delete Cookie And Mini Application**](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/Cookies_local_storage/3-index.html): Added a login form in the HTML.
+4. [**Use js-cookie**](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/Cookies_local_storage/4-index.html): Integration of the js-cookie library for cookie management.
+5. [**Local Storage**](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/Cookies_local_storage/5-index.html): Construction of a simple shopping cart using local storage.
+6. [**Session Storage**](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/Cookies_local_storage/6-index.html): Replacement of local storage with session storage.
+7. [**Advanced Use Of Web Storage**](https://github.com/MathieuMorel62/holbertonschool-web_front_end/blob/main/Cookies_local_storage/7-index.html): Creation of a more advanced shopping cart system with session storage.
 
 ## 📬 Contact
 
