@@ -1375,6 +1375,95 @@ $('.pagination').on('click', 'a', function(e) {
 </details>
 </details>
 
+<details>
+<summary><a href="https://github.com/MathieuMorel62/holbertonschool-web_front_end/tree/main/Cookies_local_storage">Cookies Local Storage</a></summary>
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652362779790/CNwvZWFHo.png" width="100%">
+
+## Description
+This "Cookies & Local Storage" project is designed to deepen the understanding and use of cookies and web storage in browsers. It allows you to master the essential techniques of JavaScript to manage client-side data in an efficient and secure way.
+
+#### `General`
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+
+<details>
+<summary>Understand how to create cookies using Javascript</summary>
+<br>
+
+- **Create Cookies with JavaScript**: Learn to use JavaScript to create cookies, which are small pieces of data stored on the client's browser.
+
+```javascript
+document.cookie = "username=John";
+```
+
+</details>
+<details>
+<summary>Learn how to set specific settings for the cookie</summary>
+<br>
+
+- **Set Specific Settings for Cookies**: Explore various options for setting specific attributes for cookies, such as expiration date, domain, and path.
+
+```javascript
+document.cookie = "username=John; expires=Thu, 18 Dec 2024 12:00:00 UTC; path=/";
+```
+
+</details>
+<details>
+<summary>Learn how to read cookies with Javascript</summary>
+<br>
+
+- **Read Cookies with JavaScript**: Discover how to read cookies using JavaScript, allowing you to access the data stored in cookies.
+
+```javascript
+var username = document.cookie.replace(/(?:(?:^|.*;\s*)username\s*=\s*([^;]*).*$)|^.*$/, "$1");
+```
+
+</details>
+<details>
+<summary>How to use js-cookie for easy cookie manipulation</summary>
+<br>
+
+- **Use js-cookie Library**: Utilize the js-cookie library, which provides an easy-to-use interface for working with cookies in JavaScript.
+
+```javascript
+// Setting a cookie
+Cookies.set('username', 'John', { expires: 7 });
+
+// Getting a cookie
+var username = Cookies.get('username');
+```
+
+</details>
+<details>
+<summary>How to use the browser web storage</summary>
+<br>
+
+- **Use Browser Web Storage**: Learn to utilize browser web storage, which includes both localStorage and sessionStorage, for storing data on the client side.
+
+```javascript
+// Storing data in localStorage
+localStorage.setItem('key', 'value');
+
+// Retrieving data from localStorage
+var value = localStorage.getItem('key');
+```
+
+</details>
+<details>
+<summary>The differences between local storage and session storage</summary>
+<br>
+
+- **Differences between Local Storage and Session Storage**: Understand the distinctions between localStorage and sessionStorage in terms of data persistence and scope.
+  - **localStorage**:
+    - Data persists even after the browser is closed.
+    - Data is shared across all tabs and windows from the same origin.
+
+  - **sessionStorage**:
+    - Data is cleared when the browser session ends (when the browser is closed).
+    - Data is accessible only within the same tab or window that created it.
+</details>
+</details>
+
 ------------------
 
 ## Author
